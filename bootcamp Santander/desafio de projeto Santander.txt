@@ -1,0 +1,6 @@
+O Bootcamp Santander inciou com o pensamento computacional, onde foi explicado desde
+inicio sobre programas e suas evoluções.
+Foram feitas definições de tudo que estava sendo explicado, exemplicado tudo que era de mais 
+importante em cada aula.
+No final do progresso houve uma avaliação com todo o conteúdo estudado, onde a nota minima 
+seria 7 para finalizar com exito o modulo "Pensamento Computacional" 
